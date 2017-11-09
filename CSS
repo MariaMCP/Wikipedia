@@ -1,5 +1,6 @@
 body{
-  background-image:url("https://i.ytimg.com/vi/jvGcS_dvfEI/maxresdefault.jpg")
+  background-image:url("https://i.ytimg.com/vi/jvGcS_dvfEI/maxresdefault.jpg");
+  background-attachment: fixed;
 }
 
 h1{
